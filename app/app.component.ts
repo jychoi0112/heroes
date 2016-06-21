@@ -7,7 +7,7 @@ import { HeroDetailComponent } from './hero-detail.component';
 import { HeroService } from './hero.service';
 
 @Component({
-  selector: 'my-app-github',
+  selector: 'my-app-maxeffect',
   template: `
     <h1>{{title}}</h1>
     <nav>
