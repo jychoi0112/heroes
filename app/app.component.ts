@@ -7,7 +7,7 @@ import { HeroDetailComponent } from './hero-detail.component';
 import { HeroService } from './hero.service';
 
 @Component({
-  selector: 'my-app-maxeffect_reject',
+  selector: 'my-app-jychoi0112',
   template: `
     <h1>{{title}}</h1>
     <nav>
