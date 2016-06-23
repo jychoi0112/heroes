@@ -7,7 +7,7 @@ import { HeroDetailComponent } from './hero-detail.component';
 import { HeroService } from './hero.service';
 
 @Component({
-  selector: 'my-app-jychoi0112_again',
+  selector: 'my-app-jychoi0112_again2',
   template: `
     <h1>{{title}}</h1>
     <nav>
